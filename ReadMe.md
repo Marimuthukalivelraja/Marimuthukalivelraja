@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 🔭 I’m currently pursing Electronic and Communication Engineering<br>- 🌱 I’m currently learning Networking,Cloud and Automation concepts<br>- 👯 I’m looking to collaborate on doing projects by using AWS services and Automation tools<br>- 🤔 I’m looking for guidance to help my career
+- 🔭 I’m currently pursing Electronic and Communication Engineering<br>
+- 🌱 I’m currently learning Networking,Cloud and Automation concepts<br>
+- 👯 I’m looking to collaborate on doing projects by using AWS services and Automation tools<br>
+- 🤔 I’m looking for guidance to help my career
 
 
 ## 🌐 Socials:
