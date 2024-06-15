@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently pursuing Electronic and Communication Engineering<br>
-- 🌱 I’m currently learning Networking, Cloud, and Automation concepts<br>
+- 🌱 I’m currently learning Networking, Security and Automation concepts<br>
 - 👯 I’m looking to collaborate on doing projects 
 
 
